@@ -34,3 +34,5 @@ bun build
 The compatible with PostCss plugin
 
 And go to ```.next``` folder and go to static path ```*******.css``` how css generated to matched your used selector tag and class. 
+
+![image](https://github.com/siveing/next-purge-css/assets/80828464/9d88513a-08fe-4103-99ed-b3e16add7520)
