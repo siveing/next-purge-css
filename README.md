@@ -16,6 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Reference 
 Open [https://purgecss.com/introduction.html](https://purgecss.com/introduction.html)
+
 Open [https://www.diffchecker.com/EFrFjgNy/](https://www.diffchecker.com/EFrFjgNy/) to see the diff between the purge css and no purge css. It about the remove the unused css and selector from css files.
 
 ## To see it
@@ -29,5 +30,7 @@ pnpm build
 # or
 bun build
 ```
+
+The compatible with PostCss plugin
 
 And go to ```.next``` folder and go to static path ```*******.css``` how css generated to matched your used selector tag and class. 
