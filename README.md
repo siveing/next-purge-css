@@ -36,3 +36,6 @@ The compatible with PostCss plugin
 And go to ```.next``` folder and go to static path ```*******.css``` how css generated to matched your used selector tag and class. 
 
 ![image](https://github.com/siveing/next-purge-css/assets/80828464/9d88513a-08fe-4103-99ed-b3e16add7520)
+
+## Example of Extractor
+![image](https://github.com/siveing/next-purge-css/assets/80828464/430094eb-39e9-4a55-8c54-0d2fb01aa113)
